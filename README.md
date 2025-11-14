@@ -55,3 +55,6 @@
 
 ## git restore .
  -> restaura todos os arquivos apagados
+
+## git merge "branch_name"
+ -> mesclar a branch escolhida na atual
