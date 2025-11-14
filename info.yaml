@@ -1,0 +1,25 @@
+myname: "Tercio Brz"
+age: 21
+noob: false
+informations: > 
+    tres pratos de tigro para 
+    trezentos e trinta e tres tigres que 
+    talvez estejam tristes
+more: |
+
+    tres pratos de tigro para 
+    trezentos e trinta e tres tigres que
+
+    talvez estejam tristes
+
+loobys:
+    - "Programar"
+    - "Programar"
+    - "Programar"
+    - "Programar"
+    - "Programar"
+    - "Programar"
+
+outhers: ["Programar","Programar","Programar","Programar"]
+
+
